@@ -22,7 +22,7 @@ portfolio/
 ## ⚡ How to Run
 1. Download or clone this repository  
    ```bash
-   git clone https://github.com/Palli-Pooja
+   git clone https://github.com/Palli-Pooja/portfolio
 
 2. Open the project folder in **VS Code** or any editor
 3. Install the **Live Server** extension in VS Code
